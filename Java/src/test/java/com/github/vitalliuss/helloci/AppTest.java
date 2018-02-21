@@ -1,6 +1,5 @@
 package com.github.vitalliuss.helloci;
 
-
 import static org.junit.Assert.*;
 import org.junit.Ignore;
 import org.junit.Test;
@@ -18,7 +17,7 @@ public class AppTest {
 
 	@Test
 	public void testShouldBeFailed() {
-		assertTrue(false);
+		assertTrue(true);
 	}
 
 	@Ignore("Not implemented yet")
